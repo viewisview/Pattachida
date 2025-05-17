@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pattachida's Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Pattachida Janevanichkhun</h1>
+    <p>Junior UX/UI Designer</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I’m a UX/UI designer with a background in urban design and a passion for creating digital experiences that make life easier and more beautiful.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Selected Projects</h2>
+    <div class="project-card">
+      <h3>Realist Website Redesign</h3>
+      <p>Redesigned a property listing website to improve usability and mobile responsiveness using Figma.</p>
+    </div>
+    <div class="project-card">
+      <h3>User Research for Real Estate Platform</h3>
+      <p>Conducted user interviews and created personas to shape the design of a property inquiry feature.</p>
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: pattachida.jane@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/pattachida-janevanichkhun-130127229">View Profile</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Pattachida Janevanichkhun</p>
+  </footer>
+</body>
+</html>
